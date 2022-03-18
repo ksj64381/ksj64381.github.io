@@ -14,7 +14,6 @@ author: ksj64381
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: 히히
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
