@@ -41,11 +41,7 @@ navbar-links:
 social-network-links:
   email: "64381@hufs.ac.kr"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: 없
   github: https://github.com/ksj64381/testing-repo
-  twitter: 없
-  patreon: 없
-  youtube: 없
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
